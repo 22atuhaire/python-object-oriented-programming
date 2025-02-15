@@ -72,5 +72,5 @@ I study at UTAMU.
 [Atuhaire abiudi](https://github.com/22atuhaire)
 
 # License
-This project is licensed under the  GNU GENERAL PUBLIC LICENSE 
+This project is licensed under GNU GENERAL PUBLIC LICENSE License.
 
